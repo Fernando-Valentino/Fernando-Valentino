@@ -34,9 +34,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Fernando-Valentino&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/Fernando-Valentino/Fernando-Valentino/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Fernando-Valentino/Fernando-Valentino/output/snake.svg" alt="Snake animation" /> -->
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fernando-Valentino/Fernando-Valentino/output/pacman-contribution-graph-dark.svg">
@@ -44,4 +43,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fernando-Valentino/Fernando-Valentino/output/pacman-contribution-graph.svg">
 </picture>
 
-###
