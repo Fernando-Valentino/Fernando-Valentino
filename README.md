@@ -3,11 +3,17 @@
 ## 💫 About Me:
 
 🎓 An **Information Systems student** at UCIC (Universitas Catur Insan Cendekia)
+
 💼 **Full-Stack Web Developer** — experienced in both Front-End & Back-End development
+
 💡 Passionate about building fast, responsive, and functional web applications
+
 📚 Currently diving deeper into **Laravel Framework** and **REST APIs** for modern web development
+
 🤝 Open to collaboration, or team contributions
+
 📫 Reach me at: fernandovalentino.dev@gmail.com
+
 🌐 Portfolio: Coming soon
 
 ## 🌐 Socials:
