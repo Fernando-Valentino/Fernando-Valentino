@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Fernando Valentino](img/github-header-image.png)
-
+![Header](img/github-header-image.png)
 
 <!--
 **Fernando-Valentino/Fernando-Valentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
