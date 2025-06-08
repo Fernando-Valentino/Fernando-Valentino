@@ -34,8 +34,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Fernando-Valentino&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/Fernando-Valentino/Fernando-Valentino/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
