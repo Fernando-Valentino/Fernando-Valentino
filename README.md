@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Fernando Valentino](img/Fernando%20Valentino.png)
+![Fernando Valentino](img/github-header-image.png)
 
 
 <!--
