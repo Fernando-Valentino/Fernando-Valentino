@@ -4,7 +4,7 @@
 
 🎓 An **Information Systems student** at UCIC (Universitas Catur Insan Cendekia)
 
-💼 **Full-Stack Web Developer** — experienced in both Front-End & Back-End development
+💼 **Web Developer** — experienced in both Front-End & Back-End development
 
 💡 Passionate about building fast, responsive, and functional web applications
 
