@@ -14,7 +14,7 @@
 
 📫 Reach me at: fernandovalentino.dev@gmail.com
 
-🌐 Portfolio:  [![Portfolio](https://portfolio-valen.my.canva.site/)
+🌐 Portfolio:  [[Portfolio](https://portfolio-valen.my.canva.site/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fernandovalentinoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandovalentino) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fernando_valentino) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernandovalentino.dev@gmail.com) 
